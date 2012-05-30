@@ -26,7 +26,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 /**
- * Uses the login_redirect filter which apperently exists since WordPress 2.7
+ * Uses the login_redirect filter which apparently exists since WordPress 2.7
  * according to http://adambrown.info/p/wp_hooks/hook/login_redirect
  * thus this should work from WordPress 2.7 and upwards.
  */
