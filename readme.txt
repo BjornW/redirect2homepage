@@ -2,7 +2,7 @@
 Contributors: BjornW
 Tags: redirect, login, simple
 Requires at least: 2.7
-Tested up to: 3.4-RC2
+Tested up to: 3.4
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
