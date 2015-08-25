@@ -2,7 +2,7 @@
 Contributors: BjornW
 Tags: redirect, login, simple
 Requires at least: 2.7
-Tested up to:4.0-alpha  
+Tested up to:4.3  
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,7 +22,15 @@ settings and should work perfectly fine with Multisite installations
 
 == Notes == 
 
-Credits WordPress repository header image found in /assets: 
+Credits:
+
+Arrows icon used in the WordPress plugin repository and found in /assets/icon*
+From the series ['Flat Shadows'](http://www.toicon.com/series/flat-shadows) By [Shannon E Thomas](http://www.toicon.com/authors/1)
+
+Thanks Shannon E Thomas and to[icon] for sharing your work!
+
+
+WordPress repository header image found in /assets: 
 
 ['Arrow'](http://www.flickr.com/photos/usnationalarchives/4266516860/)
 
