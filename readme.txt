@@ -2,7 +2,7 @@
 Contributors: BjornW
 Tags: redirect, login, simple
 Requires at least: 2.7
-Tested up to:4.8  
+Tested up to: 5.3.2  
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,10 +15,30 @@ instead of the Dashboard when this plugin is activated. The plugin has no
 settings and should work perfectly fine with Multisite installations
 (the plugin will use the blog url and _not_ the main site url).
 
+If this plugin meets your expectations and you use it commercially
+please consider a donation to one of these organisations or your country's equivalents: 
+
+  - <a href='https://www.msf.org/'>Medicines Sans Frontiers</a> 
+  - <a href='https://fsfe.org'>Free Software Foundation Europe</a>
+  - <a href='https://https://www.bitsoffreedom.nl/english/'>Bits of Freedom</a>
+  - <a href='https://edri.org/'>European Digital Rights (EDRi)</a> 
+  - <a href='https://fsf.org'>Free Software Foundation</a>
+  - <a href='https://eff.org'>Electronic Frontier Foundation</a>
+
 == Installation ==
 1. Upload the `redirect2homepage` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Done!
+
+== Frequently Asked Questions ==
+
+= Is this plugin actively being developed? =
+Yes and no. Let me explain: 
+I consider this plugin to be feature complete and unless bugs are found there will be no development on this plugin. In other words this plugin is in maintenance mode and will be maintained for the foreseeable future. 
+Due to other obligations I'm not always able to keep up with WordPress version's and updating this readme's 'Tested up to' version number. 
+However, unless WordPress significantly changes the way the login_redirect filter works it should work perfectly fine even though the 'Tested up to' might be of a lower version number. 
+As always, when in doubt, test it :) (and when it does give you issues, feel free to leave a comment). 
+
 
 == Notes == 
 
